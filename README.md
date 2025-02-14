@@ -31,8 +31,7 @@ Welcome to the **Soloro GitHub repository**, the official hub for the developmen
 
 ### **Contact**
 For questions, support, or collaboration opportunities:  
-- **Website:** [https://soloro.site](https://soloro.site)  
-- **Email:** contact@soloro.site  
+- **Website:** [https://soloro.site](https://soloro.site)   
 - **Telegram:** [t.me/SoloroCommunity](https://t.me/SoloroCommunity)
 
 ---
